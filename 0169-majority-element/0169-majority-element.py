@@ -6,8 +6,11 @@ class Solution:
 
         # Count occurrences of each element
         for x in nums:
-            
-            counters[x] += 1  # No need to check if the key exists
+            if x in counters:
+                counters[x] += 1  # Increment count if the key exists
+            else:
+                counters[x] = 1   # Initialize key with value 1 if it doesn't exist
+
         
         # Find the element that appears more than len(nums) // 2 times
         for key, value in counters.items():
