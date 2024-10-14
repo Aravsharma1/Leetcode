@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Aravsharma1/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Aravsharma1/Leetcode/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
 |  |
@@ -25,9 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Aravsharma1/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aravsharma1/Leetcode/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Aravsharma1/Leetcode/tree/master/0125-valid-palindrome) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Aravsharma1/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
