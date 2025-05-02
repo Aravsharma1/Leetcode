@@ -1,7 +1,13 @@
 class Solution:
     def getConcatenation(self, nums: List[int]) -> List[int]:
-        ans = [] #declaring an empty array 
-        for x in range(2):
-            for n in nums: 
-                ans.append(n)
+        length = len(nums)
+        new_length = 2*length
+        ans = [0]* new_length
+        counter = 0
+        for i in range(0, new_length):
+            ans[i] = nums[counter]
+            counter += 1
+            if(counter == length):
+                counter = 0
         return ans
+        
