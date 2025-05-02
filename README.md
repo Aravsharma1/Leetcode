@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Aravsharma1/Leetcode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Aravsharma1/Leetcode/tree/master/0231-power-of-two) |
+| [2383-add-two-integers](https://github.com/Aravsharma1/Leetcode/tree/master/2383-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
