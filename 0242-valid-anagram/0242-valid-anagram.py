@@ -1,5 +1,10 @@
-class Solution:
-    def isAnagram(self, s: str, t: str) -> bool:
+class Solution(object):
+    def isAnagram(self, s, t):
+        """
+        :type s: str
+        :type t: str
+        :rtype: bool
+        """
         if(len(s) != len(t)):
             return False
         # keep count of each type of char in s
@@ -27,3 +32,6 @@ class Solution:
             else:
                 return False
         return True
+        
+        
+        
