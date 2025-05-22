@@ -1,21 +1,17 @@
 class Solution:
-    def removeElement(self, nums: List[int], val: int) -> int: 
-        # find k:
-        k = 0 
-        for x in range(0, len(nums)):
+    def removeElement(self, nums: List[int], val: int) -> int:
+        counter_k = 0
+        dict_counter = 0
+        dictionary = {}
+        for x in range(len(nums)):
             if nums[x] != val:
-                k += 1
-        end = len(nums) - 1
-        for start in range(0, k):
-            while (nums[end] == val):
-                    end -= 1
-            if (nums[start] == val) and (start <= k):
-                temp = nums[start]
-                nums[start] = nums[end]
-                nums[end] = temp
-                start += 1
-                end -= 1
-            else: 
-                start += 1
-        return k
+                counter_k += 1
+                dictionary[dict_counter] = nums[x]
+                dict_counter += 1
+        # dict has all of the values from nums not equal to value
+        copy_counter_k = 0 # to not loose track of counter_k
+        while(counter_k != copy_counter_k):
+            nums[copy_counter_k] = dictionary[copy_counter_k]
+            copy_counter_k += 1          
+        return counter_k
         
