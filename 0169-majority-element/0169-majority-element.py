@@ -1,18 +1,22 @@
-from collections import defaultdict
 class Solution:
-
     def majorityElement(self, nums: List[int]) -> int:
-        counters = defaultdict(int)  # Default value for non-existing keys is 0
-
-        # Count occurrences of each element
-        for x in nums:
-            if x in counters:
-                counters[x] += 1  # Increment count if the key exists
+        dictionary = {}
+        for x in range(len(nums)):
+            if nums[x] in dictionary:
+                dictionary[nums[x]] += 1
             else:
-                counters[x] = 1   # Initialize key with value 1 if it doesn't exist
+                dictionary[nums[x]] = 1
+        # key algorithmic approach: looping through dictionary values using 
+        # values() function 
+        # values returns a list of values of the dictionary
+        max_value = 0
+        for x in dictionary.values():
+            if x >= max_value:
+                max_value = x
+        # max_value is a value
+        for x in dictionary:
+            if max_value == dictionary[x]:
+                return x
+
 
         
-        # Find the element that appears more than len(nums) // 2 times
-        for key, value in counters.items():
-            if value > len(nums) // 2:
-                return key
