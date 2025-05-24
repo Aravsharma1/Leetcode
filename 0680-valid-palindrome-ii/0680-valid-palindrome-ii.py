@@ -14,11 +14,6 @@ class Solution:
                 if(constraint == 0):
                     return False
                 else:
-                    # move left or right pointer
-                    # if(s[right] == s[left + 1]):
-                    #     left += 1
-                    # else:
-                    #     right -= 1
                     # check whether substring until right - 1 is a palindrome
                     # check whether substring from left + 1 until end is a 
                     # palindrome
@@ -38,7 +33,8 @@ class Solution:
                             check_right = False
                         start_left += 1
                         temp_right -= 1
-                    return check_right or check_left
+                    return check_right or check_left # do an early return 
+                    # no need to exit and then check
         return valid_palindrome
                 
                 
