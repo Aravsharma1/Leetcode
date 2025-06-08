@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aravsharma1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aravsharma1/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Aravsharma1/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Aravsharma1/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Aravsharma1/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Aravsharma1/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0792-binary-search](https://github.com/Aravsharma1/Leetcode/tree/master/0792-binary-search) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Aravsharma1/Leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Aravsharma1/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Aravsharma1/Leetcode/tree/master/0231-power-of-two) |
 | [2383-add-two-integers](https://github.com/Aravsharma1/Leetcode/tree/master/2383-add-two-integers) |
 ## Bit Manipulation
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aravsharma1/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aravsharma1/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aravsharma1/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Aravsharma1/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Aravsharma1/Leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aravsharma1/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/Aravsharma1/Leetcode/tree/master/1894-merge-strings-alternately) |
