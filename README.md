@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aravsharma1/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Aravsharma1/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Aravsharma1/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/Aravsharma1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/Aravsharma1/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Aravsharma1/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2058-concatenation-of-array](https://github.com/Aravsharma1/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aravsharma1/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aravsharma1/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aravsharma1/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Aravsharma1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,14 +81,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aravsharma1/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aravsharma1/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aravsharma1/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Aravsharma1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aravsharma1/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Aravsharma1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aravsharma1/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Aravsharma1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,4 +120,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aravsharma1/Leetcode/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aravsharma1/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aravsharma1/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aravsharma1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
