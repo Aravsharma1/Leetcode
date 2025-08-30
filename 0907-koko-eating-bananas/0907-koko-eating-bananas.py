@@ -1,18 +1,6 @@
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
         # Key Idea: 
-
-        '''
-        Key Idea: 
-        - the maximum value of k is the maximum value of piles. 
-            for ex: if k is 12 (greater than max value of piles), thats the same 
-            as having k as 11. So if k is 12, it would take 1 hour each for each pile
-        - so the value of k is constrained between 1 and max(piles)
-        - then in your main loop (don't have to check all the values of piles), check if 
-        that value is a possible value of k
-        - to check if that value is a possible value of k we can use a separate helper function
-        - 
-        '''
         def check_k(k):
             hours = 0
             for p in piles:
